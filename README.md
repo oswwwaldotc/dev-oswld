@@ -1,6 +1,7 @@
-**Contributions** 
+[![GitHub Action](https://github.com/dev-oswld/dev-oswld/actions/workflows/main.yml/badge.svg)](https://github.com/dev-oswld/dev-oswld/actions/workflows/main.yml)
 
 ![snake gif](https://github.com/dev-oswld/dev-oswld/blob/output/github-contribution-grid-snake.gif)
+
 
 **Social Media**
 
